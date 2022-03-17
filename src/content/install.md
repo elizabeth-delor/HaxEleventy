@@ -1,8 +1,8 @@
 ---
-title: Installation
+title: Boilerplate Web Component Comparisons
 order: 1
 ---
-<h2> Quick Installation Script </h2>
+<h2> Types of Web Component Frameworks </h2>
 <code-sample copy-clipboard-button>
   <template>
     curl -fsSL https://raw.githubusercontent.com/elmsln/hax11ty/master/hax11tyme.sh -o hax11tyme.sh && sh hax11tyme.sh
