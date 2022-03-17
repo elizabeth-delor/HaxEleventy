@@ -38,40 +38,40 @@
 'use strict';
 var precacheConfig = [
   [
-    "/HaxEleventy/content/about/",
-    "zEMBvbRz8O7qyzfS"
+    "/HaxEleventy/content/contact/",
+    "zxmFlbCz2LYtqYgb"
   ],
   [
-    "/HaxEleventy/content/contact/",
-    "zEMBvbRz8O7qyzfS"
+    "/HaxEleventy/content/about/",
+    "zxmFlbCz2LYtqYgb"
   ],
   [
     "/HaxEleventy/content/install/",
-    "zEMBvbRz8O7qyzfS"
+    "zxmFlbCz2LYtqYgb"
   ],
   [
     "/HaxEleventy/content/roadmap/",
-    "zEMBvbRz8O7qyzfS"
+    "zxmFlbCz2LYtqYgb"
   ],
   [
     "/HaxEleventy/content/why/",
-    "zEMBvbRz8O7qyzfS"
+    "zxmFlbCz2LYtqYgb"
   ],
   [
     "/HaxEleventy/content/examples/Community/",
-    "zEMBvbRz8O7qyzfS"
-  ],
-  [
-    "/HaxEleventy/content/examples/HAXTeam/",
-    "zEMBvbRz8O7qyzfS"
+    "zxmFlbCz2LYtqYgb"
   ],
   [
     "/HaxEleventy/content/examples/",
-    "zEMBvbRz8O7qyzfS"
+    "zxmFlbCz2LYtqYgb"
+  ],
+  [
+    "/HaxEleventy/content/examples/HAXTeam/",
+    "zxmFlbCz2LYtqYgb"
   ],
   [
     "/HaxEleventy/",
-    "zEMBvbRz8O7qyzfS"
+    "zxmFlbCz2LYtqYgb"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

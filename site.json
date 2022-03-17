@@ -1,5 +1,5 @@
 {
-  "id": "#2dede2bd-bcf9-a312-c72e-c6c7cb1d8c1e",
+  "id": "#336be332-e8ac-7103-a498-51b0500b211a",
   "title": "HaxEleventy",
   "author": "elizabeth-delor",
   "description": "project documentation",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "HaxEleventy",
-      "created": 1646000814391,
-      "updated": 1646000814391,
+      "created": 1647546422302,
+      "updated": 1647546422302,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "HAXTheWeb",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -102,12 +102,12 @@
       "location": "./pages/install.md",
       "slug": "content/install/",
       "order": 1,
-      "title": "Installation",
-      "description": "Installation",
+      "title": "Boilerplate Web Component Comparisons",
+      "description": "Boilerplate Web Component Comparisons",
       "parent": null,
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -116,7 +116,7 @@
           "content"
         ],
         "layout": "content.liquid",
-        "title": "Installation",
+        "title": "Boilerplate Web Component Comparisons",
         "order": 1
       }
     },
@@ -130,8 +130,8 @@
       "description": "Community examples",
       "parent": "--content-examples-index-md",
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -154,8 +154,8 @@
       "description": "Examples",
       "parent": null,
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -178,8 +178,8 @@
       "description": "Why this is better",
       "parent": null,
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -202,8 +202,8 @@
       "description": "Roadmap",
       "parent": null,
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -226,8 +226,8 @@
       "description": "Get involved!",
       "parent": null,
       "metadata": {
-        "created": 1646000789,
-        "updated": 1646000789,
+        "created": 1647546402,
+        "updated": 1647546402,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

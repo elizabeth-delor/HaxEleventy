@@ -3,7 +3,7 @@
   <title>HaxEleventy</title>
   <link href="https://elizabeth-delor.github.io/HaxEleventy/atom.xml" rel="self" />
   <subtitle>project documentation</subtitle>
-  <updated>2022-02-27T22:26:28.788-00:00</updated>
+  <updated>2022-03-17T19:46:42.276-00:00</updated>
   <author>
       <name>elizabeth-delor</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>About</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/about/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/about/"/>
     <content type="html">
@@ -29,8 +29,8 @@
   <entry>
     <title>Get involved!</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/contact/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/contact/"/>
     <content type="html">
@@ -41,8 +41,8 @@
   <entry>
     <title>Community examples</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/examples/Community/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/examples/Community/"/>
     <content type="html">
@@ -53,8 +53,8 @@
   <entry>
     <title>HAXTheWeb</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/examples/HAXTeam/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/examples/HAXTeam/"/>
     <content type="html">
@@ -69,8 +69,8 @@
   <entry>
     <title>Examples</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/examples/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/examples/"/>
     <content type="html">
@@ -79,14 +79,14 @@
     </content>
   </entry>
   <entry>
-    <title>Installation</title>
+    <title>Boilerplate Web Component Comparisons</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/install/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/install/"/>
     <content type="html">
-      &lt;h2&gt; Quick Installation Script &lt;/h2&gt;
+      &lt;h2&gt; Types of Web Component Frameworks &lt;/h2&gt;
 &lt;code-sample copy-clipboard-button&gt;
   &lt;template&gt;
     curl -fsSL https://raw.githubusercontent.com/elmsln/hax11ty/master/hax11tyme.sh -o hax11tyme.sh &amp;&amp; sh hax11tyme.sh
@@ -110,8 +110,8 @@
   <entry>
     <title>Roadmap</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/roadmap/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/roadmap/"/>
     <content type="html">
@@ -136,8 +136,8 @@
   <entry>
     <title>Why this is better</title>
     <id>https://elizabeth-delor.github.io/HaxEleventy/content/why/</id>
-    <updated>2022-02-27T22:26:28.788-00:00</updated>
-    <published>2022-02-27T22:26:28.788-00:00</published>
+    <updated>2022-03-17T19:46:42.276-00:00</updated>
+    <published>2022-03-17T19:46:42.276-00:00</published>
     <summary></summary>
     <link href="https://elizabeth-delor.github.io/HaxEleventy/content/why/"/>
     <content type="html">
